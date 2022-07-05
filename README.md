@@ -1,7 +1,7 @@
-# solve-0h-h1-puzzle
+# Solve 0hh1 Puzzle!
 
 ## Description
-An auto-solver for "0h h1" game, using backtracking. You know this game could kill plenty of time!
+An auto-solver for (0hh1)[https://github.com/florisluiten/0hh1] game, using backtracking. You know this game could kill plenty of time!
 
 ## About the game
 ### Get the game

@@ -1,18 +1,18 @@
 # Solve 0hh1 Puzzle!
 
-## Description
-An auto-solver for [0hh1](https://github.com/florisluiten/0hh1) game, using backtracking. You know this game could kill plenty of time!
+## Abstract
+An auto-solver for [0hh1](https://github.com/florisluiten/0hh1) game, using backtracking. You know that this game could kill plenty of time!
 
-## About the game
+## Introduction
 ### Get the game
-Get the game on [Website](https://0hh1.com/) / [Google Play](https://play.google.com/store/apps/details?id=com.q42.ohhi) / [IOS Store](https://itunes.apple.com/us/app/0h-h1). 
+Get the game on its [Official Website](https://0hh1.com/) / [Google Play](https://play.google.com/store/apps/details?id=com.q42.ohhi) / [IOS Store](https://itunes.apple.com/us/app/0h-h1). 
 
 ### Rule of the game
 1. Three adjacent tiles of the same color in a row or column isn't allowed. 
 2. Rows and columns have an equal number of each color. 
 3. No two rows and no two columns are the same. 
 
-## How to use / Example
+## Example / How to use
 Start a new game and see the initial board may looks like: 
 
 ```

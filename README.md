@@ -1,15 +1,11 @@
-# Solve 0hh1 Puzzle!
+# Solve Takuzu Puzzle!
 
 ## Abstract
-An auto-solver for the [0hh1](https://github.com/florisluiten/0hh1) game, using backtracking.
+An auto-solver for the [Takuzu](https://en.wikipedia.org/wiki/Takuzu) game, using dfs and backtracking.
 
 ## Introduction
-### The Game 0hh1
-0hh1 is a free puzzle game. Get the game on its [Official Website](https://0hh1.com/) / [Google Play](https://play.google.com/store/apps/details?id=com.q42.ohhi) / [IOS Store](https://itunes.apple.com/us/app/0h-h1). 
-The game has these rules:
-1. Three adjacent tiles of the same color in a row or column isn't allowed. 
-2. Rows and columns have an equal number of each color. 
-3. No two rows and no two columns are the same. 
+### The Game Takuzu
+Takuzu, also known as Binairo, is a logic puzzle involving placement of two symbols, often 1s and 0s, on a rectangular grid. The objective is to fill the grid with 1s and 0s, where there is an equal number of 1s and 0s in each row and column and no more than two of either number adjacent to each other. Additionally, there can be no identical rows or columns. Similar to [Sudoku](https://en.wikipedia.org/wiki/Sudoku), each puzzle begins with several squares in the grid already filled. 
 
 ### The solver
 Since this game could kill plenty of time, we made a auto-solver to free our brains.
@@ -49,6 +45,3 @@ Now run the solver and you'll get output below. I use character `-` and `|` to p
 | | - | - - 
 - - | - | | 
 ```
-
-## Conflict of Interest
-I'm not the person who made this game, and I have no conflict of interest to declare.
